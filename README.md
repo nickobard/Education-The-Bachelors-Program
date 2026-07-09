@@ -16,7 +16,7 @@ List of the most interesting, big and relevant projects and courses.
 
 - Bachelor's Thesis - [Enhancing Fake News Classification With Advanced NLP Models](https://github.com/nickobard/FIT-CTU-Bc-Work-Enhancing-Fake-News-Classification).
 - [Knowledge Base Systems](7.Semester/ZNS) - Bayesian networks, logical inferencing from data, prolog.
-- [Database Technologies for BIG Data](7.Semester/BIG) - course on usage of MongoDB (full cluster with nodes and shards) and Kibana dashboards with Ealstic Stack (continous data gathering, preprocessing, and dashboarding)
+- [Database Technologies for BIG Data](7.Semester/BIG) - NoSQL course on usage of MongoDB (full cluster with nodes and shards) and Kibana dashboards with Ealstic-Logstash Stack (continous data gathering, preprocessing, and dashboarding)
 - [Data Preprocessing](7.Semester/PDD) - Master's course on preprocessing data. 
 - Machine Learning - Semestral Works during [ML1](5.Semester/ML1) and [ML2](6.Semester/ML2) courses.
 - [Data Analysis of Eurostat Datasets](https://github.com/nickobard/eurostat-datasets-analysis) - semestral works in teams.
